@@ -2,7 +2,7 @@ class Pcaudiolib < Formula
   desc "Portable C Audio Library"
   homepage "https://github.com/espeak-ng/pcaudiolib"
   url "https://github.com/espeak-ng/pcaudiolib/archive/1.1.tar.gz"
-  sha256 "1594aed0cc6d0df181088cc5314da54f9a049358755b6ed0c07c1778cf4c8487"
+  sha256 "699a5a347b1e12dc5b122e192e19f4db01621826bf41b9ebefb1cbc63ae2180b"
   revision 1
 
   def install
